@@ -1,9 +1,14 @@
-# !! WARNING !!
+# How to use:
 
-## THIS SCRIPT IS OUTDATED
+1. Download [latest release](https://github.com/baerchen201/get-winget-cli/releases/latest/release.zip)
+2. Run install.bat script
+   - If it doesn't work, try running as Administrator
 
-This script was created a couple years ago, and no longer works.
+### Warning:
 
-You will most likely get the error "No license found" after installation.
+This script uses static files that may not be up to date.
 
-I may update the script in the future, but for now, just don't use it.
+This may change in the future as you could update the script to automatically download missing dependencies.
+This script is a very early alpha version.
+
+If it crashes or doesn't work, download the latest versions of the winget cli and its dependencies and try again.
