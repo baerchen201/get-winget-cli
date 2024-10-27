@@ -1,6 +1,6 @@
 # How to use:
 
-1. Download [latest release](https://github.com/baerchen201/get-winget-cli/releases/latest/release.zip)
+1. Download [latest release](https://github.com/baerchen201/get-winget-cli/releases/latest)
 2. Run install.bat script
    - If it doesn't work, try running as Administrator
 
